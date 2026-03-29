@@ -1,3 +1,7 @@
+## 🏗️ Medallion Architecture (Bronze → Silver → Gold)
+
+This diagram illustrates the layered data pipeline used in this project, where raw data is ingested into the Bronze layer, transformed in the Silver layer, and modeled into analytics-ready data in the Gold layer.
+
 <img src="Medallion Architecture.png" width="700">
 
 
